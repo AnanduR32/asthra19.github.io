@@ -722,8 +722,15 @@ left: 60%;
 .intro-option2{
     display: none;
 }
-
+.info{
+    color: #e2dbdbe7;
+}
 @media (max-width: 900px) {
+    .info{
+        font-size:10px;
+        text-align: center;
+        padding-top: 30px;
+    }
     .intro--banner {
     height: 380px;
 }
@@ -798,7 +805,7 @@ display: none;
 }
 .intro-option2{
     display: block;
-    padding-top: 30px;
+    padding-top: 20px;
 }
 .intro-option2 h1 {
     font-size: 13px;
