@@ -1,2 +1,2 @@
 # asthra19.github.io
-The finalWebsit of Asthra19
+The official final website of Asthra'19
